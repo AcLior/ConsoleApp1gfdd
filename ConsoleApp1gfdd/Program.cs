@@ -11,6 +11,7 @@ namespace ConsoleApp1gfdd
         static void Main(string[] args)
         {
             Console.WriteLine("Lior");
+            Console.WriteLine("Another row");
         }
     }
 }
